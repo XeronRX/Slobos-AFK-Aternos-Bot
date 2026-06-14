@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "flyingdaddy.aternos.me ",
+    "ip": "flyingdaddy.aternos.me:14295 ",
     "port": 14295,
     "version": "",
     "try-creative": false
