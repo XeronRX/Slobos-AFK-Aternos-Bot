@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "OnlineBoy",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "flyingdaddy.aternos.me:14295 ",
-    "port": 14295,
+    "ip": "GooningDaddy.aternos.me",
+    "port": 64659,
     "version": "",
     "try-creative": false
   },
