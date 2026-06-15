@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GooningDaddy.aternos.me",
+    "ip": "GooningDaddy.aternos.me:64659",
     "port": 64659,
     "version": "",
     "try-creative": false
